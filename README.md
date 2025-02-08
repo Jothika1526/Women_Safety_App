@@ -71,7 +71,6 @@ TWILIO_TWIML_URL=your_twiml_url
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    pip install -r requirements.txt
-   python app.py
    ```
 
 ## How It Works 🎯
